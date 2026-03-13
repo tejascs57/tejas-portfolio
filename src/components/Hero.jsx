@@ -5,8 +5,8 @@ import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
 const Hero = ({ setCursorVariant }) => {
   const socialLinks = [
-    { icon: FaGithub, href: 'https://github.com/SanjaySundarMurthy', label: 'GitHub' },
-    { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/sanjay-s-094586160/', label: 'LinkedIn' },
+    { icon: FaGithub, href: 'https://github.com/tejascs57', label: 'GitHub' },
+    { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/tejas-c-s-439a021b1/', label: 'LinkedIn' },
   ];
 
   const containerVariants = {
@@ -68,7 +68,7 @@ const Hero = ({ setCursorVariant }) => {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
             </span>
-            <span className="text-sm text-dark-200">Available for new opportunities</span>
+            {/* <span className="text-sm text-dark-200">Available for new opportunities</span> */}
           </div>
         </motion.div>
 
@@ -81,7 +81,7 @@ const Hero = ({ setCursorVariant }) => {
           onMouseLeave={() => setCursorVariant('default')}
         >
           <span className="text-white">Hi, I'm </span>
-          <span className="gradient-text">Sanjay S</span>
+          <span className="gradient-text">Tejas C S</span>
         </motion.h1>
 
         {/* Typewriter effect */}
