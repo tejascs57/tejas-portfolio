@@ -85,7 +85,7 @@ const SANJAY_CONTEXT = `
 You are Sanjay's AI assistant on his portfolio website.
 
 ## PERSONAL INFORMATION:
-- Name: Sanjay S
+- Name: Tejas C S
 - Title: Senior DevOps Engineer
 - Experience: 5+ years
 - Location: Bangalore, India
@@ -298,7 +298,7 @@ I went all-in on SEO because what's the point of a portfolio nobody can find?
 ### Open Graph (LinkedIn/Facebook Preview)
 
 ```html
-<meta property="og:title" content="Sanjay S | Senior DevOps Engineer" />
+<meta property="og:title" content="Tejas C S | Senior DevOps Engineer" />
 <meta property="og:description" content="5+ years Azure, Kubernetes, Terraform..." />
 <meta property="og:image" content="https://...vercel.app/og-image.png" />
 <meta property="og:type" content="website" />
@@ -311,7 +311,7 @@ I went all-in on SEO because what's the point of a portfolio nobody can find?
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Sanjay S",
+  "name": "Tejas C S",
   "jobTitle": "Senior DevOps Engineer",
   "worksFor": { "@type": "Organization", "name": "AspenTech (Emerson)" },
   "knowsAbout": ["Azure", "Kubernetes", "Terraform", "DevOps"]

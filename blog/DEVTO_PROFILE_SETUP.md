@@ -15,12 +15,12 @@ Navigate to: https://dev.to/settings
 
 ### Name
 ```
-Sanjay S
+Tejas C S
 ```
 
 ### Email
 ```
-sanjaysundarmurthy@gmail.com
+tejascs99@gmail.com
 ```
 
 ### Username

@@ -58,7 +58,7 @@ const Footer = ({ setCursorVariant }) => {
                 className="text-xl font-semibold text-white"
                 style={{ fontFamily: 'Space Grotesk' }}
               >
-                Sanjay S
+                Tejas C S
               </span>
             </motion.a>
             <p className="text-dark-400 leading-relaxed max-w-sm">
@@ -140,7 +140,7 @@ const Footer = ({ setCursorVariant }) => {
             >
               <HiHeart className="text-red-500" />
             </motion.span>
-            by <span className="text-primary-400">Sanjay S</span>
+            by <span className="text-primary-400">Tejas C S</span>
           </p>
 
           {/* Back to top button */}

@@ -1,4 +1,4 @@
-# 🚀 Sanjay S - DevOps Engineer Portfolio
+# 🚀 Tejas C S - DevOps Engineer Portfolio
 
 A stunning, modern, and responsive web portfolio built with React, Vite, and Tailwind CSS. Features an AI-powered chatbot, contact form, SEO optimization, and Google Analytics tracking.
 
@@ -454,7 +454,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Sanjay S**
+**Tejas C S**
 
 | | |
 |---|---|
@@ -485,4 +485,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ **If you found this portfolio helpful, please give it a star!**
 
-Made with ❤️ by Sanjay S
+Made with ❤️ by Tejas C S

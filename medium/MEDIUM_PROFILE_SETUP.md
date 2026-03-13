@@ -4,7 +4,7 @@
 
 ### Display Name
 ```
-Sanjay S
+Tejas C S
 ```
 
 ### Bio (160 chars max — make every word count)

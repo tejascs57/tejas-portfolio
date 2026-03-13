@@ -313,7 +313,7 @@ Make a fake terminal that responds to commands:
 
 ```
 $ whoami
-Sanjay S - Senior DevOps Engineer
+Tejas C S - Senior DevOps Engineer
 
 $ cat skills.yml
 cloud: [Azure, AWS]
@@ -460,7 +460,7 @@ You now have everything you need:
 8. ✅ Contact form (EmailJS, no backend)
 
 **Fork my repo and start customizing:**
-👉 [github.com/SanjaySundarMurthy/Sanjay-portfolio](https://github.com/SanjaySundarMurthy/Sanjay-portfolio)
+👉 [github.com/tejascs57](https://github.com/tejascs57/)
 
 Or build from scratch — either way, **just start**.
 
@@ -469,6 +469,6 @@ Make sure what they find is impressive. 🚀
 
 ---
 
-*Building your portfolio? Tag me [@sanjaysundarmurthy](https://dev.to/sanjaysundarmurthy) — I'd love to see what you build!*
+*Building your portfolio? Tag me [@tejascs](https://dev.to/tejascs) — I'd love to see what you build!*
 
 **If this helped you, drop a ❤️ and share it with a fellow DevOps engineer who needs a portfolio!**
