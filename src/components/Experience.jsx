@@ -27,11 +27,20 @@ const Experience = ({ setCursorVariant }) => {
         'Implemented containerization strategies using Docker and Kubernetes on Azure. Built automated CI/CD pipelines with Azure DevOps and Jenkins. Managed Azure infrastructure including App Services, AKS, ADF, Databricks, and Storage solutions. Developed monitoring solutions with Azure Monitor and Prometheus, achieving 99.9% uptime.',
       technologies: ['Azure', 'Docker', 'Kubernetes', 'Azure DevOps', 'Jenkins', 'Terraform', 'Prometheus', 'PowerShell'],
     },
-        {
+    {
       type: 'work',
       title: 'Analyst',
       company: 'KPMG',
       period: 'August 2021 - September 2024',
+      description:
+        'Implemented containerization strategies using Docker and Kubernetes on Azure. Built automated CI/CD pipelines with Azure DevOps and Jenkins. Managed Azure infrastructure including App Services, AKS, ADF, Databricks, and Storage solutions. Developed monitoring solutions with Azure Monitor and Prometheus, achieving 99.9% uptime.',
+      technologies: ['Azure', 'Docker', 'Kubernetes', 'Azure DevOps', 'Jenkins', 'Terraform', 'Prometheus', 'PowerShell'],
+    },
+    {
+      type: 'work',
+      title: 'Engineer Intern',
+      company: 'Bharat Electronics Limited (BEL)',
+      period: 'July 2020 - August 2020',
       description:
         'Implemented containerization strategies using Docker and Kubernetes on Azure. Built automated CI/CD pipelines with Azure DevOps and Jenkins. Managed Azure infrastructure including App Services, AKS, ADF, Databricks, and Storage solutions. Developed monitoring solutions with Azure Monitor and Prometheus, achieving 99.9% uptime.',
       technologies: ['Azure', 'Docker', 'Kubernetes', 'Azure DevOps', 'Jenkins', 'Terraform', 'Prometheus', 'PowerShell'],
