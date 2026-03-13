@@ -142,7 +142,7 @@ const Hero = ({ setCursorVariant }) => {
             <HiArrowDown className="animate-bounce" />
           </motion.a>
           {/* DOWNLOAD CV BUTTON - CURRENTLY DISABLED
-              To enable: Uncomment the motion.a element below and remove this comment block
+              To enable: Uncomment the motion.a element below and remove this comment block.
           */}
           {/* 
           <motion.a
