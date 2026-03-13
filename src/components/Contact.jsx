@@ -32,8 +32,8 @@ const Contact = ({ setCursorVariant }) => {
     {
       icon: HiMail,
       label: 'Email',
-      value: 'sanjaysundarmurthy@gmail.com',
-      href: 'mailto:sanjaysundarmurthy@gmail.com',
+      value: 'tejascs99@gmail.com',
+      href: 'mailto:tejascs99@gmail.com',
     },
     {
       icon: HiPhone,

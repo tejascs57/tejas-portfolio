@@ -461,11 +461,11 @@ This project is open source and available under the [MIT License](LICENSE).
 | 📍 Location | Bangalore, Karnataka, India |
 | 💼 Role | Senior DevOps Engineer @ AspenTech (Emerson) |
 | 🎓 Education | B.E. Aeronautical Engineering - DSCE (VTU) |
-| 📧 Email | sanjaysundarmurthy@gmail.com |
-| 📱 Phone | +91 9901244652 |
-| 🔗 LinkedIn | [linkedin.com/in/sanjay-s-094586160](https://www.linkedin.com/in/sanjay-s-094586160/) |
-| 💻 GitHub | [github.com/SanjaySundarMurthy](https://github.com/SanjaySundarMurthy) |
-| 🌐 Portfolio | [sanjaysundarmurthy-portfolio.vercel.app](https://sanjaysundarmurthy-portfolio.vercel.app) |
+| 📧 Email | tejascs99@gmail.com |
+| 📱 Phone | +91 9880475198 |
+| 🔗 LinkedIn | [linkedin.com/in/tejas-c-s-439a021b1/](https://www.linkedin.com/in/tejas-c-s-439a021b1/) |
+| 💻 GitHub | [github.com/tejascs57](https://github.com/tejascs57) |
+| 🌐 Portfolio | [tejascs.vercel.app/](https://tejascs.vercel.app/) |
 
 ---
 

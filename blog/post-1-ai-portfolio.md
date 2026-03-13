@@ -446,12 +446,12 @@ If you're a DevOps engineer (or any developer) wondering whether building a cust
 
 The full source code is open source. Fork it, customize it, make it yours:
 
-👉 **[GitHub Repository](https://github.com/SanjaySundarMurthy/Sanjay-portfolio)**
-🌐 **[Live Demo](https://sanjaysundarmurthy-portfolio.vercel.app)**
+👉 **[GitHub Repository](https://github.com/tejascs57/)**
+🌐 **[Live Demo](https://tejascs.vercel.app/)**
 💬 **Try the AI Chatbot** — Click the chat icon on the bottom right!
 
 ---
 
-*Got questions? Drop a comment below, or find me on [LinkedIn](https://www.linkedin.com/in/sanjay-s-094586160/) or drop me an email at sanjaysundarmurthy@gmail.com.*
+*Got questions? Drop a comment below, or find me on [LinkedIn](https://www.linkedin.com/in/tejas-c-s-439a021b1/) or drop me an email at tejascs99@gmail.com.*
 
 **If this article helped you, smash that ❤️ and follow for more DevOps + Web Dev content!**
