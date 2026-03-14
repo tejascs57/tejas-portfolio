@@ -76,7 +76,7 @@ const Contact = ({ setCursorVariant }) => {
           from_email: formData.email,
           subject: formData.subject,
           message: formData.message,
-          to_name: 'Sanjay',
+          to_name: 'Tejas',
         },
         import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       );

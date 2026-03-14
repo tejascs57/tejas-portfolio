@@ -18,7 +18,7 @@ A stunning, modern, and responsive web portfolio built with React, Vite, and Tai
 - **Interactive Elements** - Custom cursor effects, particle background, and hover animations
 - **Fully Responsive** - Optimized for all screen sizes (mobile, tablet, desktop)
 - **Fast Performance** - Built with Rolldown-Vite for lightning-fast builds
-- **🤖 AI Chatbot** - Google Gemini-powered assistant that knows everything about Sanjay
+- **🤖 AI Chatbot** - Google Gemini-powered assistant that knows everything about Tejas
 - **📧 Contact Form** - Integrated with EmailJS for direct messaging
 - **📊 Google Analytics** - Track visitors and engagement
 - **🔍 SEO Optimized** - Meta tags, Open Graph, sitemap, robots.txt, JSON-LD structured data
@@ -55,7 +55,6 @@ Web-portfolio/
 │   ├── robots.txt             # Search engine crawl rules
 │   ├── sitemap.xml            # Sitemap for Google indexing
 │   ├── site.webmanifest       # PWA manifest
-│   └── Sanjay_S_Resume.pdf    # Downloadable resume (optional)
 ├── scripts/
 │   └── convert-og-image.js    # SVG to PNG converter for OG image
 ├── src/
@@ -190,7 +189,7 @@ The contact form sends emails directly without a backend server.
 
 ### 2. AI Chatbot (Google Gemini)
 
-The chatbot uses Google Gemini AI to answer questions about Sanjay's profile.
+The chatbot uses Google Gemini AI to answer questions about Tejas's profile.
 
 **Setup Steps:**
 1. Go to [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
@@ -288,9 +287,8 @@ Edit `src/index.css` — modify the `@theme` section:
 | Projects | `src/components/Projects.jsx` | Project cards (name, description, GitHub URL, tags) |
 | Contact info | `src/components/Contact.jsx` | Email, phone, location |
 | Social links | `src/components/Hero.jsx` & `Footer.jsx` | GitHub & LinkedIn URLs |
-| AI chatbot context | `src/components/Chatbot.jsx` | Update `SANJAY_CONTEXT` constant |
+| AI chatbot context | `src/components/Chatbot.jsx` | Update `TEJAS_CONTEXT` constant |
 | Page title & SEO | `index.html` | Meta tags, JSON-LD structured data |
-| Resume | `public/Sanjay_S_Resume.pdf` | Replace with updated PDF |
 
 ---
 

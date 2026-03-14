@@ -81,8 +81,8 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY);
 
 // The magic: comprehensive context injection
-const SANJAY_CONTEXT = `
-You are Sanjay's AI assistant on his portfolio website.
+const TEJAS_CONTEXT = `
+You are Tejas's AI assistant on his portfolio website.
 
 ## PERSONAL INFORMATION:
 - Name: Tejas C S
