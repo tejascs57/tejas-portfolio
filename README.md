@@ -49,7 +49,7 @@ A stunning, modern, and responsive web portfolio built with React, Vite, and Tai
 ```
 Web-portfolio/
 ├── public/
-│   ├── favicon.svg            # Custom "S" branded favicon
+│   ├── favicon.png            # Custom "S" branded favicon
 │   ├── og-image.svg           # OG image source (SVG)
 │   ├── og-image.png           # OG image for social sharing (1200x630)
 │   ├── robots.txt             # Search engine crawl rules
