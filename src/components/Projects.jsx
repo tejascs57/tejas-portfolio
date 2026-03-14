@@ -80,18 +80,6 @@ const Projects = ({ setCursorVariant }) => {
       githubUrl: 'https://medium.com/kpmg-uk-engineering/streamlined-workflows-with-github-actions-dockerfile-integration-and-fetching-secrets-from-5d3da352d113',
       featured: false,
     },
-    {
-      id: 6,
-      title: 'Disaster Recovery Solution',
-      description:
-        'Architected and implemented cross-region disaster recovery solution with automated failover, achieving RPO of 5 minutes and RTO of 15 minutes.',
-      image: 'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&q=80',
-      category: 'infra',
-      technologies: ['Azure Site Recovery', 'Terraform', 'PowerShell', 'Azure Traffic Manager'],
-      liveUrl: '#',
-      githubUrl: 'https://github.com/SanjaySundarMurthy/azure-disaster-recovery',
-      featured: false,
-    },
   ];
 
   const filteredProjects =
