@@ -208,7 +208,7 @@ const Contact = ({ setCursorVariant }) => {
             </div>
 
             {/* Availability card */}
-            <motion.div
+            {/* <motion.div
               whileHover={{ scale: 1.02 }}
               className="glass rounded-2xl p-6 border-l-4 border-green-500"
             >
@@ -222,7 +222,7 @@ const Contact = ({ setCursorVariant }) => {
               <p className="text-dark-400 text-sm">
                 Interested in DevOps, Cloud, and Infrastructure roles
               </p>
-            </motion.div>
+            </motion.div> */}
           </motion.div>
 
           {/* Contact Form */}
