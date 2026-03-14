@@ -58,14 +58,14 @@ const Projects = ({ setCursorVariant }) => {
     },
     {
       id: 4,
-      title: 'Observability Stack',
+      title: 'Email Notifications for Security Incidents',
       description:
-        'Implemented comprehensive monitoring solution with Prometheus, Grafana, and ELK stack, providing real-time insights and alerting for 100+ services.',
-      image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80',
+        'Automating Email Notifications for Security Incidents: Integrating Azure Sentinel with Logic Apps, Analytic rules and Automation rules',
+      image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/email-notification.png',
       category: 'monitoring',
-      technologies: ['Prometheus', 'Grafana', 'ELK Stack', 'AlertManager'],
+      technologies: ['Email Notification', 'Automation', 'Security', 'Security Incidents'],
       liveUrl: '#',
-      githubUrl: 'https://github.com/SanjaySundarMurthy/k8s-observability-stack',
+      githubUrl: 'https://www.linkedin.com/pulse/automating-email-notifications-security-incidents-integrating-c-s-w54fc/?trackingId=7t1I5wcVSq2dLkQTD0gqtw%3D%3D',
       featured: false,
     },
     {
