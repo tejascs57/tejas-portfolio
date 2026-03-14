@@ -7,7 +7,7 @@ A stunning, modern, and responsive web portfolio built with React, Vite, and Tai
 ![Vite](https://img.shields.io/badge/Vite-7.2.5-646CFF?logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-38B2AC?logo=tailwind-css)
 
-🌐 **Live:** [sanjaysundarmurthy-portfolio.vercel.app](https://sanjaysundarmurthy-portfolio.vercel.app)
+🌐 **Live:** [tejascs.vercel.app](https://tejascs.vercel.app)
 
 ---
 
