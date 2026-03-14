@@ -25,7 +25,7 @@ tejascs99@gmail.com
 
 ### Username
 ```
-sanjaysundarmurthy
+tejascs
 ```
 
 ### Bio (200 chars)

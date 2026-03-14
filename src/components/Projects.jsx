@@ -22,14 +22,14 @@ const Projects = ({ setCursorVariant }) => {
   const projects = [
     {
       id: 1,
-      title: 'Enterprise Kubernetes Platform',
+      title: 'Multi-Cloud Security',
       description:
-        'Designed and deployed a multi-cluster Kubernetes platform on Azure AKS with auto-scaling, RBAC, and GitOps-based deployments using ArgoCD.',
-      image: 'https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&q=80',
+        'Strengthening Your Multi-Cloud Security: A Guide to Microsoft Defender’s Cloud Security Posture Management',
+      image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/cloud-security.webp',
       category: 'infra',
-      technologies: ['Azure AKS', 'Kubernetes', 'ArgoCD', 'Helm', 'Terraform'],
-      liveUrl: '#',
-      githubUrl: 'https://github.com/SanjaySundarMurthy/Enterprise-k8s-platform',
+      technologies: ['Azure', 'MDC', 'DevSecOps', 'CyberSecurity', 'Cloud Security'],
+      liveUrl: 'https://medium.com/kpmg-uk-engineering/strengthening-your-multi-cloud-security-a-guide-to-microsoft-defenders-cloud-security-posture-9e6f55d4fc4d',
+      githubUrl: 'https://github.com/tejascs57/Microsoft-Defender-For-Cloud',
       featured: true,
     },
     {
