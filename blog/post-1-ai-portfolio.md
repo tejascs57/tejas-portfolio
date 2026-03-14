@@ -127,7 +127,7 @@ const sendMessage = async (userMessage) => {
 
   // First message includes the full context
   const prompt = messages.length <= 1
-    ? `${SANJAY_CONTEXT}\n\nUser question: ${userMessage}`
+    ? `${TEJAS_CONTEXT}\n\nUser question: ${userMessage}`
     : userMessage;
 
   const result = await chat.sendMessage(prompt);

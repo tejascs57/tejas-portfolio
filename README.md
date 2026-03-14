@@ -203,7 +203,7 @@ The chatbot uses Google Gemini AI to answer questions about Tejas's profile.
 
 **Customizing Chatbot Context:**
 - Edit `src/components/Chatbot.jsx`
-- Update the `SANJAY_CONTEXT` constant with your information
+- Update the `TEJAS_CONTEXT` constant with your information
 - This tells the AI what it knows about you (experience, skills, projects, etc.)
 
 **Model:** `gemini-2.5-flash` (free tier: 15 requests/min, 1500 requests/day)
