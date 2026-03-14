@@ -51,7 +51,7 @@ const Footer = ({ setCursorVariant }) => {
                   className="text-lg font-bold text-white"
                   style={{ fontFamily: 'Space Grotesk' }}
                 >
-                  SS
+                  TCS
                 </span>
               </div>
               <span
