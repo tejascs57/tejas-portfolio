@@ -73,11 +73,11 @@ const Projects = ({ setCursorVariant }) => {
       title: 'Container Security Pipeline',
       description:
         'Developed automated container security scanning pipeline with vulnerability assessment, compliance checks, and automated remediation.',
-      image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80',
+      image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/github%20actions.webp',
       category: 'cicd',
-      technologies: ['Trivy', 'Aqua Security', 'Azure DevOps', 'Docker'],
+      technologies: ['GitHub Actions', 'GitHub', 'CI/CD', 'Pipeline'],
       liveUrl: '#',
-      githubUrl: 'https://github.com/SanjaySundarMurthy/container-security-pipeline',
+      githubUrl: 'https://medium.com/kpmg-uk-engineering/streamlined-workflows-with-github-actions-dockerfile-integration-and-fetching-secrets-from-5d3da352d113',
       featured: false,
     },
     {
