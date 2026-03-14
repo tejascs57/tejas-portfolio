@@ -26,7 +26,7 @@ const Projects = ({ setCursorVariant }) => {
       description:
         'Strengthening Your Multi-Cloud Security: A Guide to Microsoft Defender’s Cloud Security Posture Management',
       image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/cloud-security.webp',
-      category: 'infra',
+      category: 'monitoring',
       technologies: ['Azure', 'MDC', 'DevSecOps', 'CyberSecurity', 'Cloud Security'],
       liveUrl: 'https://medium.com/kpmg-uk-engineering/strengthening-your-multi-cloud-security-a-guide-to-microsoft-defenders-cloud-security-posture-9e6f55d4fc4d',
       githubUrl: 'https://github.com/tejascs57/Microsoft-Defender-For-Cloud',
@@ -46,14 +46,14 @@ const Projects = ({ setCursorVariant }) => {
     },
     {
       id: 3,
-      title: 'Machine Learning Projects',
+      title: 'Microsoft Defender for Cloud',
       description:
-        'Collection of ML projects including predictive models, data analysis, and AI-powered solutions using Python, TensorFlow, and scikit-learn.',
-      image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80',
+        'Refine Your Pricing Strategy: Tailoring Defender for Servers P1 or P2 on Specific Resources, including Subscription Level pricing plan',
+      image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/refine-price.webp',
       category: 'monitoring',
       technologies: ['Python', 'TensorFlow', 'scikit-learn', 'Pandas', 'Jupyter'],
-      liveUrl: '#',
-      githubUrl: 'https://github.com/SanjaySundarMurthy/MachineLearningProjects',
+      liveUrl: 'https://medium.com/kpmg-uk-engineering/refine-your-pricing-strategy-tailoring-defender-for-servers-p1-or-p2-on-specific-resources-ab16ea4e46de',
+      githubUrl: 'https://github.com/tejascs57/Microsoft-Defender-For-Cloud.git',
       featured: true,
     },
     {
