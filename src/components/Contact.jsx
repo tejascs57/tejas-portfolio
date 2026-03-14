@@ -50,8 +50,8 @@ const Contact = ({ setCursorVariant }) => {
   ];
 
   const socialLinks = [
-    { icon: FaGithub, href: 'https://github.com/SanjaySundarMurthy', label: 'GitHub' },
-    { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/sanjay-s-094586160/', label: 'LinkedIn' },
+    { icon: FaGithub, href: 'https://github.com/tejascs57/', label: 'GitHub' },
+    { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/tejas-c-s-439a021b1/', label: 'LinkedIn' },
   ];
 
   const handleChange = (e) => {
