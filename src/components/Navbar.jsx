@@ -80,7 +80,7 @@ const Navbar = ({ setCursorVariant }) => {
                   className="text-lg font-bold text-white"
                   style={{ fontFamily: 'Space Grotesk' }}
                 >
-                  TCS
+                  T
                 </span>
               </div>
               <span
