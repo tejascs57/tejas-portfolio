@@ -64,7 +64,7 @@ const Loader = () => {
               className="text-4xl font-bold text-white"
               style={{ fontFamily: 'Space Grotesk' }}
             >
-              SS
+              Tejas
             </motion.span>
           </div>
           
