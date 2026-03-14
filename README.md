@@ -98,8 +98,8 @@ Web-portfolio/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/SanjaySundarMurthy/Sanjay-portfolio.git
-cd Sanjay-portfolio
+git clone https://github.com/tejascs57/
+cd tejas-portfolio
 ```
 
 ### Step 2: Install Dependencies

@@ -3,8 +3,8 @@ title: How I Built an AI-Powered Portfolio That Talks to Recruiters — React, G
 published: true
 description: A deep dive into building a stunning developer portfolio with an AI chatbot that knows everything about you, interactive particles, glassmorphism, and zero backend costs.
 tags: react, ai, webdev, portfolio
-cover_image: https://sanjaysundarmurthy-portfolio.vercel.app/og-image.png
-canonical_url: https://sanjaysundarmurthy-portfolio.vercel.app
+cover_image: https://tejascs.vercel.app/og-image.png
+canonical_url: https://tejascs.vercel.app/
 ---
 
 > *"Your portfolio shouldn't just list your skills — it should demonstrate them."*
@@ -15,8 +15,8 @@ So I built a portfolio with an **AI chatbot** that knows everything about me, **
 
 Here's exactly how I did it — and you can do it too.
 
-🌐 **Live Demo:** [sanjaysundarmurthy-portfolio.vercel.app](https://sanjaysundarmurthy-portfolio.vercel.app)
-💻 **Source Code:** [GitHub](https://github.com/SanjaySundarMurthy/Sanjay-portfolio)
+🌐 **Live Demo:** [tejascs.vercel.app/](https://tejascs.vercel.app/)
+💻 **Source Code:** [GitHub](https://github.com/tejascs57/)
 
 ---
 
@@ -63,7 +63,7 @@ Here's exactly how I did it — and you can do it too.
 
 This is what separates my portfolio from the thousands of template-based ones. When a visitor clicks the chat icon, they can ask **anything** about me:
 
-- *"What's Sanjay's experience?"*
+- *"What's Tejas's experience?"*
 - *"Does he know Kubernetes?"*
 - *"Is he available for hire?"*
 - *"What certifications does he have?"*
