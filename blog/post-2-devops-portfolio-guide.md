@@ -305,7 +305,7 @@ Get a free API key at [aistudio.google.com/apikey](https://aistudio.google.com/a
 
 The key insight: **inject your resume as context**, then let the AI answer naturally. Visitors can have a conversation with your portfolio.
 
-<!-- [Read my detailed implementation guide →](https://dev.to/sanjaysundarmurthy/how-i-built-an-ai-powered-portfolio-that-talks-to-recruiters-react-gemini-pure-magic) -->
+<!-- [Read my detailed implementation guide →](https://dev.to/tejascs/how-i-built-an-ai-powered-portfolio-that-talks-to-recruiters-react-gemini-pure-magic) -->
 
 ### Option B: Interactive Terminal
 
