@@ -3,7 +3,7 @@ title: The DevOps Engineer's Guide to Building a Portfolio That Actually Gets Yo
 published: true
 description: A step-by-step technical guide for DevOps engineers to build a portfolio website that stands out. Includes architecture decisions, tech stack selection, and real code examples.
 tags: devops, tutorial, webdev, career
-cover_image: https://sanjaysundarmurthy-portfolio.vercel.app/og-image.png
+cover_image: https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/og-vercel.jpg
 ---
 
 > *"A DevOps engineer with a custom-built portfolio is like a chef who cooks their own meals — it demonstrates real skill, not just theory."*
