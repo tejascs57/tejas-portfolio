@@ -16,8 +16,8 @@ Let's be honest: most DevOps engineer portfolios are either:
 
 I built something different, and it's getting me noticed. Here's how you can too.
 
-🌐 **What we're building:** [Live Demo](https://sanjaysundarmurthy-portfolio.vercel.app)
-💻 **Source Code:** [GitHub](https://github.com/SanjaySundarMurthy/Sanjay-portfolio)
+🌐 **What we're building:** [Live Demo](https://tejascs.vercel.app/)
+💻 **Source Code:** [GitHub](https://github.com/tejascs57/)
 
 ---
 
@@ -305,7 +305,7 @@ Get a free API key at [aistudio.google.com/apikey](https://aistudio.google.com/a
 
 The key insight: **inject your resume as context**, then let the AI answer naturally. Visitors can have a conversation with your portfolio.
 
-[Read my detailed implementation guide →](https://dev.to/sanjaysundarmurthy/how-i-built-an-ai-powered-portfolio-that-talks-to-recruiters-react-gemini-pure-magic)
+<!-- [Read my detailed implementation guide →](https://dev.to/tejascs/how-i-built-an-ai-powered-portfolio-that-talks-to-recruiters-react-gemini-pure-magic) -->
 
 ### Option B: Interactive Terminal
 
@@ -313,7 +313,7 @@ Make a fake terminal that responds to commands:
 
 ```
 $ whoami
-Sanjay S - Senior DevOps Engineer
+Tejas C S - Senior DevOps Engineer
 
 $ cat skills.yml
 cloud: [Azure, AWS]
@@ -460,7 +460,7 @@ You now have everything you need:
 8. ✅ Contact form (EmailJS, no backend)
 
 **Fork my repo and start customizing:**
-👉 [github.com/SanjaySundarMurthy/Sanjay-portfolio](https://github.com/SanjaySundarMurthy/Sanjay-portfolio)
+👉 [github.com/tejascs57](https://github.com/tejascs57/)
 
 Or build from scratch — either way, **just start**.
 
@@ -469,6 +469,6 @@ Make sure what they find is impressive. 🚀
 
 ---
 
-*Building your portfolio? Tag me [@sanjaysundarmurthy](https://dev.to/sanjaysundarmurthy) — I'd love to see what you build!*
+*Building your portfolio? Tag me [@tejascs](https://dev.to/tejascs) — I'd love to see what you build!*
 
 **If this helped you, drop a ❤️ and share it with a fellow DevOps engineer who needs a portfolio!**

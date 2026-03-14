@@ -15,12 +15,12 @@ Navigate to: https://dev.to/settings
 
 ### Name
 ```
-Sanjay S
+Tejas C S
 ```
 
 ### Email
 ```
-sanjaysundarmurthy@gmail.com
+tejascs99@gmail.com
 ```
 
 ### Username
@@ -40,17 +40,17 @@ Bangalore, India 🇮🇳
 
 ### Website URL
 ```
-https://sanjaysundarmurthy-portfolio.vercel.app
+https://tejascs.vercel.app
 ```
 
 ### GitHub
 ```
-https://github.com/SanjaySundarMurthy
+https://github.com/tejascs57/
 ```
 
 ### LinkedIn
 ```
-https://www.linkedin.com/in/sanjay-s-094586160/
+https://www.linkedin.com/in/tejas-c-s-439a021b1/
 ```
 
 ---

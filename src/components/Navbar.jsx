@@ -16,8 +16,8 @@ const Navbar = ({ setCursorVariant }) => {
     { id: 'contact', label: 'Contact' },
   ];
 
-  const blogUrl = 'https://dev.to/sanjaysundarmurthy';
-  const mediumUrl = 'https://medium.com/@sanjaysundarmurthy';
+  const blogUrl = 'https://dev.to/tejascs';
+  const mediumUrl = 'https://medium.com/@tejascs111';
 
   useEffect(() => {
     const handleScroll = () => {
@@ -87,7 +87,7 @@ const Navbar = ({ setCursorVariant }) => {
                 className="hidden sm:block text-xl font-semibold text-white"
                 style={{ fontFamily: 'Space Grotesk' }}
               >
-                <span className="gradient-text">Sanjay S</span>
+                <span className="gradient-text">Tejas C S</span>
               </span>
             </div>
           </motion.a>

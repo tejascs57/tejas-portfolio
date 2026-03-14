@@ -1,4 +1,4 @@
-# 🚀 Sanjay S - DevOps Engineer Portfolio
+# 🚀 Tejas C S - DevOps Engineer Portfolio
 
 A stunning, modern, and responsive web portfolio built with React, Vite, and Tailwind CSS. Features an AI-powered chatbot, contact form, SEO optimization, and Google Analytics tracking.
 
@@ -18,7 +18,7 @@ A stunning, modern, and responsive web portfolio built with React, Vite, and Tai
 - **Interactive Elements** - Custom cursor effects, particle background, and hover animations
 - **Fully Responsive** - Optimized for all screen sizes (mobile, tablet, desktop)
 - **Fast Performance** - Built with Rolldown-Vite for lightning-fast builds
-- **🤖 AI Chatbot** - Google Gemini-powered assistant that knows everything about Sanjay
+- **🤖 AI Chatbot** - Google Gemini-powered assistant that knows everything about Tejas
 - **📧 Contact Form** - Integrated with EmailJS for direct messaging
 - **📊 Google Analytics** - Track visitors and engagement
 - **🔍 SEO Optimized** - Meta tags, Open Graph, sitemap, robots.txt, JSON-LD structured data
@@ -55,7 +55,6 @@ Web-portfolio/
 │   ├── robots.txt             # Search engine crawl rules
 │   ├── sitemap.xml            # Sitemap for Google indexing
 │   ├── site.webmanifest       # PWA manifest
-│   └── Sanjay_S_Resume.pdf    # Downloadable resume (optional)
 ├── scripts/
 │   └── convert-og-image.js    # SVG to PNG converter for OG image
 ├── src/
@@ -98,8 +97,8 @@ Web-portfolio/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/SanjaySundarMurthy/Sanjay-portfolio.git
-cd Sanjay-portfolio
+git clone https://github.com/tejascs57/
+cd tejas-portfolio
 ```
 
 ### Step 2: Install Dependencies
@@ -190,7 +189,7 @@ The contact form sends emails directly without a backend server.
 
 ### 2. AI Chatbot (Google Gemini)
 
-The chatbot uses Google Gemini AI to answer questions about Sanjay's profile.
+The chatbot uses Google Gemini AI to answer questions about Tejas's profile.
 
 **Setup Steps:**
 1. Go to [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
@@ -204,7 +203,7 @@ The chatbot uses Google Gemini AI to answer questions about Sanjay's profile.
 
 **Customizing Chatbot Context:**
 - Edit `src/components/Chatbot.jsx`
-- Update the `SANJAY_CONTEXT` constant with your information
+- Update the `TEJAS_CONTEXT` constant with your information
 - This tells the AI what it knows about you (experience, skills, projects, etc.)
 
 **Model:** `gemini-2.5-flash` (free tier: 15 requests/min, 1500 requests/day)
@@ -288,9 +287,8 @@ Edit `src/index.css` — modify the `@theme` section:
 | Projects | `src/components/Projects.jsx` | Project cards (name, description, GitHub URL, tags) |
 | Contact info | `src/components/Contact.jsx` | Email, phone, location |
 | Social links | `src/components/Hero.jsx` & `Footer.jsx` | GitHub & LinkedIn URLs |
-| AI chatbot context | `src/components/Chatbot.jsx` | Update `SANJAY_CONTEXT` constant |
+| AI chatbot context | `src/components/Chatbot.jsx` | Update `TEJAS_CONTEXT` constant |
 | Page title & SEO | `index.html` | Meta tags, JSON-LD structured data |
-| Resume | `public/Sanjay_S_Resume.pdf` | Replace with updated PDF |
 
 ---
 
@@ -454,18 +452,18 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Sanjay S**
+**Tejas C S**
 
 | | |
 |---|---|
 | 📍 Location | Bangalore, Karnataka, India |
 | 💼 Role | Senior DevOps Engineer @ AspenTech (Emerson) |
 | 🎓 Education | B.E. Aeronautical Engineering - DSCE (VTU) |
-| 📧 Email | sanjaysundarmurthy@gmail.com |
-| 📱 Phone | +91 9901244652 |
-| 🔗 LinkedIn | [linkedin.com/in/sanjay-s-094586160](https://www.linkedin.com/in/sanjay-s-094586160/) |
-| 💻 GitHub | [github.com/SanjaySundarMurthy](https://github.com/SanjaySundarMurthy) |
-| 🌐 Portfolio | [sanjaysundarmurthy-portfolio.vercel.app](https://sanjaysundarmurthy-portfolio.vercel.app) |
+| 📧 Email | tejascs99@gmail.com |
+| 📱 Phone | +91 9880475198 |
+| 🔗 LinkedIn | [linkedin.com/in/tejas-c-s-439a021b1/](https://www.linkedin.com/in/tejas-c-s-439a021b1/) |
+| 💻 GitHub | [github.com/tejascs57](https://github.com/tejascs57) |
+| 🌐 Portfolio | [tejascs.vercel.app/](https://tejascs.vercel.app/) |
 
 ---
 
@@ -485,4 +483,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ **If you found this portfolio helpful, please give it a star!**
 
-Made with ❤️ by Sanjay S
+Made with ❤️ by Tejas C S

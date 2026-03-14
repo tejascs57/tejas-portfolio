@@ -4,7 +4,7 @@
 
 ### Display Name
 ```
-Sanjay S
+Tejas C S
 ```
 
 ### Bio (160 chars max — make every word count)
@@ -29,9 +29,9 @@ What I write about:
 Microsoft Certified (AZ-900, SC-900, PL-900) | Cybersecurity Award Winner
 
 Let's connect:
-🌐 Portfolio: sanjaysundarmurthy-portfolio.vercel.app
-💻 GitHub: github.com/SanjaySundarMurthy
-📝 dev.to: dev.to/sanjaysundarmurthy
+🌐 Portfolio: tejascs.vercel.app
+💻 GitHub: github.com/tejascs57/
+📝 dev.to: dev.to/tejascs
 ```
 
 ## 2. Profile Photo

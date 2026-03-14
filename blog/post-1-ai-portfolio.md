@@ -3,8 +3,8 @@ title: How I Built an AI-Powered Portfolio That Talks to Recruiters — React, G
 published: true
 description: A deep dive into building a stunning developer portfolio with an AI chatbot that knows everything about you, interactive particles, glassmorphism, and zero backend costs.
 tags: react, ai, webdev, portfolio
-cover_image: https://sanjaysundarmurthy-portfolio.vercel.app/og-image.png
-canonical_url: https://sanjaysundarmurthy-portfolio.vercel.app
+cover_image: https://tejascs.vercel.app/og-image.png
+canonical_url: https://tejascs.vercel.app/
 ---
 
 > *"Your portfolio shouldn't just list your skills — it should demonstrate them."*
@@ -15,8 +15,8 @@ So I built a portfolio with an **AI chatbot** that knows everything about me, **
 
 Here's exactly how I did it — and you can do it too.
 
-🌐 **Live Demo:** [sanjaysundarmurthy-portfolio.vercel.app](https://sanjaysundarmurthy-portfolio.vercel.app)
-💻 **Source Code:** [GitHub](https://github.com/SanjaySundarMurthy/Sanjay-portfolio)
+🌐 **Live Demo:** [tejascs.vercel.app/](https://tejascs.vercel.app/)
+💻 **Source Code:** [GitHub](https://github.com/tejascs57/)
 
 ---
 
@@ -63,7 +63,7 @@ Here's exactly how I did it — and you can do it too.
 
 This is what separates my portfolio from the thousands of template-based ones. When a visitor clicks the chat icon, they can ask **anything** about me:
 
-- *"What's Sanjay's experience?"*
+- *"What's Tejas's experience?"*
 - *"Does he know Kubernetes?"*
 - *"Is he available for hire?"*
 - *"What certifications does he have?"*
@@ -81,11 +81,11 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY);
 
 // The magic: comprehensive context injection
-const SANJAY_CONTEXT = `
-You are Sanjay's AI assistant on his portfolio website.
+const TEJAS_CONTEXT = `
+You are Tejas's AI assistant on his portfolio website.
 
 ## PERSONAL INFORMATION:
-- Name: Sanjay S
+- Name: Tejas C S
 - Title: Senior DevOps Engineer
 - Experience: 5+ years
 - Location: Bangalore, India
@@ -127,7 +127,7 @@ const sendMessage = async (userMessage) => {
 
   // First message includes the full context
   const prompt = messages.length <= 1
-    ? `${SANJAY_CONTEXT}\n\nUser question: ${userMessage}`
+    ? `${TEJAS_CONTEXT}\n\nUser question: ${userMessage}`
     : userMessage;
 
   const result = await chat.sendMessage(prompt);
@@ -298,7 +298,7 @@ I went all-in on SEO because what's the point of a portfolio nobody can find?
 ### Open Graph (LinkedIn/Facebook Preview)
 
 ```html
-<meta property="og:title" content="Sanjay S | Senior DevOps Engineer" />
+<meta property="og:title" content="Tejas C S | Senior DevOps Engineer" />
 <meta property="og:description" content="5+ years Azure, Kubernetes, Terraform..." />
 <meta property="og:image" content="https://...vercel.app/og-image.png" />
 <meta property="og:type" content="website" />
@@ -311,7 +311,7 @@ I went all-in on SEO because what's the point of a portfolio nobody can find?
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Sanjay S",
+  "name": "Tejas C S",
   "jobTitle": "Senior DevOps Engineer",
   "worksFor": { "@type": "Organization", "name": "AspenTech (Emerson)" },
   "knowsAbout": ["Azure", "Kubernetes", "Terraform", "DevOps"]
@@ -446,12 +446,12 @@ If you're a DevOps engineer (or any developer) wondering whether building a cust
 
 The full source code is open source. Fork it, customize it, make it yours:
 
-👉 **[GitHub Repository](https://github.com/SanjaySundarMurthy/Sanjay-portfolio)**
-🌐 **[Live Demo](https://sanjaysundarmurthy-portfolio.vercel.app)**
+👉 **[GitHub Repository](https://github.com/tejascs57/)**
+🌐 **[Live Demo](https://tejascs.vercel.app/)**
 💬 **Try the AI Chatbot** — Click the chat icon on the bottom right!
 
 ---
 
-*Got questions? Drop a comment below, or find me on [LinkedIn](https://www.linkedin.com/in/sanjay-s-094586160/) or drop me an email at sanjaysundarmurthy@gmail.com.*
+*Got questions? Drop a comment below, or find me on [LinkedIn](https://www.linkedin.com/in/tejas-c-s-439a021b1/) or drop me an email at tejascs99@gmail.com.*
 
 **If this article helped you, smash that ❤️ and follow for more DevOps + Web Dev content!**

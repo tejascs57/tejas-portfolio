@@ -337,26 +337,32 @@ const Skills = ({ setCursorVariant }) => {
                     icon: '🏆'
                   },
                   { 
-                    name: 'Microsoft Security, Compliance & Identity', 
+                    name: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals', 
                     code: 'SC-900', 
                     type: 'cert',
                     icon: '🛡️'
                   },
                   { 
-                    name: 'Microsoft Power Platform Fundamentals', 
-                    code: 'PL-900', 
+                    name: 'Github Foundation', 
+                    code: 'GitHub', 
+                    type: 'cert',
+                    icon: '🏅'
+                  },
+                  { 
+                    name: 'HashiCorp Certified Terraform Associate', 
+                    code: 'Terraform', 
                     type: 'cert',
                     icon: '⚡'
                   },
                   { 
-                    name: 'Microsoft Cybersecurity Award', 
-                    code: 'Accenture Azure Tech Competition', 
-                    type: 'award',
+                    name: 'Digital and Data Foundations - Cloud, Technology Platforms and Cyber Security', 
+                    code: 'KPMG', 
+                    type: 'cert',
                     icon: '🥇'
                   },
                   { 
-                    name: 'High-Impact DevOps Contributions', 
-                    code: 'Multiple Awards & Recognitions', 
+                    name: 'MegaStar Winner', 
+                    code: 'KPMG', 
                     type: 'award',
                     icon: '⭐'
                   },

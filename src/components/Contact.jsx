@@ -32,14 +32,14 @@ const Contact = ({ setCursorVariant }) => {
     {
       icon: HiMail,
       label: 'Email',
-      value: 'sanjaysundarmurthy@gmail.com',
-      href: 'mailto:sanjaysundarmurthy@gmail.com',
+      value: 'tejascs99@gmail.com',
+      href: 'mailto:tejascs99@gmail.com',
     },
     {
       icon: HiPhone,
       label: 'Phone',
-      value: '+91 9901244652',
-      href: 'tel:+919901244652',
+      value: '+91 9880475198',
+      href: 'tel:+919880475198',
     },
     {
       icon: HiLocationMarker,
@@ -50,8 +50,8 @@ const Contact = ({ setCursorVariant }) => {
   ];
 
   const socialLinks = [
-    { icon: FaGithub, href: 'https://github.com/SanjaySundarMurthy', label: 'GitHub' },
-    { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/sanjay-s-094586160/', label: 'LinkedIn' },
+    { icon: FaGithub, href: 'https://github.com/tejascs57/', label: 'GitHub' },
+    { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/tejas-c-s-439a021b1/', label: 'LinkedIn' },
   ];
 
   const handleChange = (e) => {
@@ -76,7 +76,7 @@ const Contact = ({ setCursorVariant }) => {
           from_email: formData.email,
           subject: formData.subject,
           message: formData.message,
-          to_name: 'Sanjay',
+          to_name: 'Tejas',
         },
         import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       );
@@ -208,7 +208,7 @@ const Contact = ({ setCursorVariant }) => {
             </div>
 
             {/* Availability card */}
-            <motion.div
+            {/* <motion.div
               whileHover={{ scale: 1.02 }}
               className="glass rounded-2xl p-6 border-l-4 border-green-500"
             >
@@ -222,7 +222,7 @@ const Contact = ({ setCursorVariant }) => {
               <p className="text-dark-400 text-sm">
                 Interested in DevOps, Cloud, and Infrastructure roles
               </p>
-            </motion.div>
+            </motion.div> */}
           </motion.div>
 
           {/* Contact Form */}

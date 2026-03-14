@@ -84,7 +84,7 @@ const About = ({ setCursorVariant }) => {
                 <div className="w-full h-full rounded-2xl bg-gradient-to-br from-primary-500/20 via-dark-800 to-accent-500/20 flex items-center justify-center overflow-hidden">
                   <img
                     src={profileImg}
-                    alt="Sanjay S - Senior DevOps Engineer"
+                    alt="Tejas C S - Senior DevOps Engineer"
                     className="w-full h-full object-cover rounded-2xl"
                     loading="lazy"
                   />
@@ -152,15 +152,11 @@ const About = ({ setCursorVariant }) => {
               </div>
               <div className="glass rounded-xl p-4">
                 <span className="text-dark-500 text-sm">Email</span>
-                <p className="text-white font-medium text-sm break-all">sanjaysundarmurthy@gmail.com</p>
+                <p className="text-white font-medium text-sm break-all">tejascs99@gmail.com</p>
               </div>
               <div className="glass rounded-xl p-4">
                 <span className="text-dark-500 text-sm">Education</span>
-                <p className="text-white font-medium">B.E. Aeronautical</p>
-              </div>
-              <div className="glass rounded-xl p-4">
-                <span className="text-dark-500 text-sm">Work Authorization</span>
-                <p className="text-white font-medium">B1/B2 US Visa Holder</p>
+                <p className="text-white font-medium">B.E in Computer Science</p>
               </div>
             </div>
           </motion.div>

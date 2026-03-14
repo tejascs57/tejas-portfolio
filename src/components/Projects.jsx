@@ -272,7 +272,7 @@ const Projects = ({ setCursorVariant }) => {
         {/* View all button */}
         <motion.div variants={itemVariants} className="text-center mt-12">
           <motion.a
-            href="https://github.com/SanjaySundarMurthy"
+            href="https://github.com/tejascs57/"
             target="_blank"
             rel="noopener noreferrer"
             onMouseEnter={() => setCursorVariant('button')}

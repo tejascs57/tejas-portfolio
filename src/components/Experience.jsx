@@ -12,28 +12,46 @@ const Experience = ({ setCursorVariant }) => {
     {
       type: 'work',
       title: 'Senior DevOps Engineer',
-      company: 'AspenTech (Emerson)',
-      period: '2023 - Present',
+      company: 'Emerson',
+      period: 'August 2025 - Present',
       description:
-        'Leading cloud infrastructure initiatives on Azure, designing and implementing AKS clusters for enterprise applications. Architecting CI/CD pipelines with Azure DevOps and GitHub Actions (Enterprise-scale), reducing deployment times by 70%. Managing infrastructure as code using Terraform and ARM templates. Implementing observability solutions with Azure Monitor, Application Insights, and Grafana.',
+        'Responsible for cloud infrastructure initiatives on Azure, designing and implementing AKS clusters for enterprise applications. Architecting CI/CD pipelines with Azure DevOps and GitHub Actions (Enterprise-scale), reducing deployment times by 70%. Managing infrastructure as code using Terraform and ARM templates. Implementing observability solutions with Azure Monitor, Application Insights, and Grafana.',
       technologies: ['Azure', 'AKS', 'Terraform', 'Azure DevOps', 'GitHub Actions', 'Docker', 'Helm', 'Prometheus', 'Grafana'],
     },
     {
       type: 'work',
-      title: 'Azure Cloud Engineer / DevOps Engineer',
-      company: 'Accenture',
-      period: '2021 - 2023',
+      title: 'Associate Consultant',
+      company: 'KPMG',
+      period: 'September 2024 - August 2025',
+      description:
+        'Implemented containerization strategies using Docker and Kubernetes on Azure. Built automated CI/CD pipelines with Azure DevOps and Jenkins. Managed Azure infrastructure including App Services, AKS, ADF, Databricks, and Storage solutions. Developed monitoring solutions with Azure Monitor and Prometheus, achieving 99.9% uptime.',
+      technologies: ['Azure', 'Docker', 'Kubernetes', 'Azure DevOps', 'Jenkins', 'Terraform', 'Prometheus', 'PowerShell'],
+    },
+    {
+      type: 'work',
+      title: 'Analyst',
+      company: 'KPMG',
+      period: 'August 2021 - September 2024',
+      description:
+        'Implemented containerization strategies using Docker and Kubernetes on Azure. Built automated CI/CD pipelines with Azure DevOps and Jenkins. Managed Azure infrastructure including App Services, AKS, ADF, Databricks, and Storage solutions. Developed monitoring solutions with Azure Monitor and Prometheus, achieving 99.9% uptime.',
+      technologies: ['Azure', 'Docker', 'Kubernetes', 'Azure DevOps', 'Jenkins', 'Terraform', 'Prometheus', 'PowerShell'],
+    },
+    {
+      type: 'work',
+      title: 'Engineer Intern',
+      company: 'Bharat Electronics Limited (BEL)',
+      period: 'July 2020 - August 2020',
       description:
         'Implemented containerization strategies using Docker and Kubernetes on Azure. Built automated CI/CD pipelines with Azure DevOps and Jenkins. Managed Azure infrastructure including App Services, AKS, ADF, Databricks, and Storage solutions. Developed monitoring solutions with Azure Monitor and Prometheus, achieving 99.9% uptime.',
       technologies: ['Azure', 'Docker', 'Kubernetes', 'Azure DevOps', 'Jenkins', 'Terraform', 'Prometheus', 'PowerShell'],
     },
     {
       type: 'education',
-      title: 'B.E. Aeronautical Engineering',
-      company: 'Dayananda Sagar College of Engineering (VTU)',
-      period: '2016 - 2020',
+      title: 'B.E. Computer Science Engineering',
+      company: 'K.S Institute of Technology (VTU)',
+      period: '2017 - 2021',
       description:
-        'Graduated with a degree in Aeronautical Engineering from Dayananda Sagar College of Engineering, affiliated to Visvesvaraya Technological University. Developed strong analytical and problem-solving skills. Self-taught programming and cloud technologies, transitioning into the DevOps domain with focus on Azure Cloud and automation.',
+        'Graduated with a degree in Computer Science Engineering from K.S Institute of Technology, affiliated to Visvesvaraya Technological University. Developed strong analytical and problem-solving skills. Self-taught programming and cloud technologies, transitioning into the DevOps domain with focus on Azure Cloud and automation.',
       technologies: ['Engineering Fundamentals', 'Problem Solving', 'Python', 'Linux', 'Cloud Computing'],
     },
   ];
