@@ -70,9 +70,9 @@ const Projects = ({ setCursorVariant }) => {
     },
     {
       id: 5,
-      title: 'Container Security Pipeline',
+      title: 'Streamlined Workflows with GitHub Actions',
       description:
-        'Developed automated container security scanning pipeline with vulnerability assessment, compliance checks, and automated remediation.',
+        'Streamlined Workflows with GitHub Actions, Dockerfile Integration, and Fetching Secrets from HashiCorp Vault',
       image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/github%20actions.webp',
       category: 'cicd',
       technologies: ['GitHub Actions', 'GitHub', 'CI/CD', 'Pipeline'],
