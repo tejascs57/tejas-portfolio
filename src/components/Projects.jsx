@@ -34,14 +34,14 @@ const Projects = ({ setCursorVariant }) => {
     },
     {
       id: 2,
-      title: 'CI/CD Pipeline Automation',
+      title: 'Azure Sentinel Workflows',
       description:
-        'Built comprehensive CI/CD pipelines in Azure DevOps for 50+ microservices, reducing deployment time from hours to minutes with automated testing and security scanning.',
-      image: 'https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=800&q=80',
+        'Automating Azure Sentinel Workflows: A Deep Dive into Logic Apps, API Connections, and Custom Triggers',
+      image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/logicapps.webp',
       category: 'cicd',
-      technologies: ['Azure DevOps', 'Docker', 'SonarQube', 'Trivy', 'YAML'],
+      technologies: ['Azure', 'Github Actions', 'LogicApps', 'API Connections', 'Trigger'],
       liveUrl: '#',
-      githubUrl: 'https://github.com/SanjaySundarMurthy/Azure-DevOps-Pipelines',
+      githubUrl: 'https://medium.com/kpmg-uk-engineering/automating-azure-sentinel-workflows-a-deep-dive-into-logic-apps-api-connections-and-custom-ea24e851c031',
       featured: true,
     },
     {
