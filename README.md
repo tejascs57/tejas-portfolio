@@ -1,4 +1,4 @@
-# 🚀 Tejas C S - DevOps Engineer Portfolio
+# Tejas C S - DevOps Engineer Portfolio
 
 A stunning, modern, and responsive web portfolio built with React, Vite, and Tailwind CSS. Features an AI-powered chatbot, contact form, SEO optimization, and Google Analytics tracking.
 
