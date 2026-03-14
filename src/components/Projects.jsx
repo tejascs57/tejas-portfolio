@@ -51,7 +51,7 @@ const Projects = ({ setCursorVariant }) => {
         'Refine Your Pricing Strategy: Tailoring Defender for Servers P1 or P2 on Specific Resources, including Subscription Level pricing plan',
       image: 'https://u2jq4d0vdjklqeee.public.blob.vercel-storage.com/refine-price.webp',
       category: 'monitoring',
-      technologies: ['Python', 'TensorFlow', 'scikit-learn', 'Pandas', 'Jupyter'],
+      technologies: ['MDC', 'Pricing', 'Cost-Optimization', 'Defender-for-server', 'Powershell'],
       liveUrl: 'https://medium.com/kpmg-uk-engineering/refine-your-pricing-strategy-tailoring-defender-for-servers-p1-or-p2-on-specific-resources-ab16ea4e46de',
       githubUrl: 'https://github.com/tejascs57/Microsoft-Defender-For-Cloud.git',
       featured: true,
